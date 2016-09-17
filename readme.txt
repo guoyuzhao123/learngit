@@ -2,3 +2,4 @@ guoyuzhao is very good
 guoyuzhao love you
 guoyuzhao is very cool
 ¹ùÓñ³¯
+git remote add git@hubgit.com:guoyuzhao123/learngit.git
