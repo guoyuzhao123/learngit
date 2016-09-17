@@ -8,4 +8,5 @@ git branch
 git checkout dev
 git branch
 wo shi  yige   ceshi
+Creating a new branch is quick and simple.
 
