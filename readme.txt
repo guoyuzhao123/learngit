@@ -9,6 +9,7 @@ git checkout dev
 git branch
 wo shi  yige   ceshi
 Creating guoyuzhao
+<<<<<<< HEAD
 8888888888888888888888888888888888888
 
-wo shi yige ceshi 
+wo shi edit
