@@ -7,7 +7,4 @@ git checkout dev
 git branch
 git checkout dev
 git branch
-wo shi  yige   ceshi
-
-
-wo shi edit
+asdfalsdkfjlasdkfjlaskdj
