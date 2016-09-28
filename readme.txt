@@ -7,9 +7,4 @@ git checkout dev
 git branch
 git checkout dev
 git branch
-<<<<<<< HEAD
-asdfalsdkfjlasdkfjlaskdj
-=======
-wo shi  yige   ceshi
-heiehihei
->>>>>>> dev
+
